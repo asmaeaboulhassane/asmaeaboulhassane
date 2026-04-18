@@ -1,7 +1,7 @@
 ## Asmae Aboulhassane
 
 Network & Security student.
-I build things to understand what truly happens behind the lines —
+I build things to understand what truly happens behind the lines ...
 not to impress, but to know.
 
 From zero to working tool, one layer at a time.
