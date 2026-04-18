@@ -28,7 +28,7 @@ From zero to working tool, one layer at a time.
   Cisco IOS · Fortigate · Zabbix · GNS3
   Bash · Python (learning)
   MISP · Wazuh · Wireshark
-  Linux · VMware
+  Linux · nmap
 
 ---
 
