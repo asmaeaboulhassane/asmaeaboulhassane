@@ -16,7 +16,7 @@ From zero to working tool, one layer at a time.
   → github.com/asmaeaboulhassane/snmp-automation
 
 **MISP Threat Intelligence Platform (PFE)**
-  Multi-org threat sharing simulation — 3 organizations,
+  Multi-org threat sharing simulation -> 3 organizations,
   EICAR-based correlation scenarios, RBAC architecture,
   MITRE ATT&CK galaxy integration.
   Full SOC environment deployed on local infrastructure.
